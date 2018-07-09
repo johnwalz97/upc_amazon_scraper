@@ -1,0 +1,25 @@
+{
+  "name": "upc_scanner",
+  "version": "1.0.0",
+  "description": "Scraping program that takes a csv and spits out amazon data",
+  "main": "index.js",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "puppeteer-pool": "^1.0.3",
+    "puppeteer": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwalz97/upc_amazon_scraper.git"
+  },
+  "author": "John Walz <johnwalz97@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnwalz97/upc_amazon_scraper/issues"
+  },
+  "homepage": "https://github.com/johnwalz97/upc_amazon_scraper#readme"
+}
