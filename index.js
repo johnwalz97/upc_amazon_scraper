@@ -1,1 +1,0 @@
-require('./scrape.js')()
